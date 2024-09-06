@@ -1,2 +1,2 @@
-# andy guapo hermoso, tofo tuyo,loquita
+# andy guapo hermoso
 practicas de desarrollos de software
